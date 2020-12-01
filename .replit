@@ -1,0 +1,4 @@
+language = "python3"
+#run = "python3 main.py"
+run = "python3 parte-2.py"
+#run = "python3 parte-3.py"
